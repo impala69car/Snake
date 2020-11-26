@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{72F6CB9A-6D59-0C5A-070E-13079557E0C2}") = "Snakes_1millicircle", "Assembly-CSharp-firstpass.csproj", "{0F2286AF-69DC-0E0C-A27F-43822CA0BD9C}"
+EndProject
+Project("{72F6CB9A-6D59-0C5A-070E-13079557E0C2}") = "Snakes_1millicircle", "Assembly-CSharp.csproj", "{316F7BF5-6739-C9F4-AA25-E77E8376256F}"
+EndProject
+Project("{72F6CB9A-6D59-0C5A-070E-13079557E0C2}") = "Snakes_1millicircle", "Assembly-CSharp-Editor.csproj", "{32E862EB-3602-E8C5-25DE-945160459482}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F2286AF-69DC-0E0C-A27F-43822CA0BD9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F2286AF-69DC-0E0C-A27F-43822CA0BD9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F2286AF-69DC-0E0C-A27F-43822CA0BD9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F2286AF-69DC-0E0C-A27F-43822CA0BD9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{316F7BF5-6739-C9F4-AA25-E77E8376256F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{316F7BF5-6739-C9F4-AA25-E77E8376256F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{316F7BF5-6739-C9F4-AA25-E77E8376256F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{316F7BF5-6739-C9F4-AA25-E77E8376256F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32E862EB-3602-E8C5-25DE-945160459482}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32E862EB-3602-E8C5-25DE-945160459482}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32E862EB-3602-E8C5-25DE-945160459482}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32E862EB-3602-E8C5-25DE-945160459482}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
